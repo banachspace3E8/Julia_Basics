@@ -1,0 +1,13 @@
+name = "NewPackage"
+uuid = "9497cc4d-9166-4d8b-ae87-d22d2e573437"
+authors = ["banachspace3E8 <85846366+banachspace3E8@users.noreply.github.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
